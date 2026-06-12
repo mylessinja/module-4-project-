@@ -15,6 +15,11 @@
                             "title": "OOP Lab",
                             "due_date": "2024-06-15",
                             "completed": false
+                        },
+                        {
+                            "title": "CLI Project",
+                            "due_date": "",
+                            "completed": false
                         }
                     ]
                 }
@@ -80,6 +85,14 @@
         },
         {
             "name": "john",
+            "subjects": []
+        },
+        {
+            "name": "john",
+            "subjects": []
+        },
+        {
+            "name": "lester",
             "subjects": []
         }
     ]
